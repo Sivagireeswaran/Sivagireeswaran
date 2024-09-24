@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sivagireeswaran S</h1>
-<h3 align="center">A passionate Fullstack Developer and a Machine Learning Enthusiast from India</h3>
+<h3 align="center"> "I am a passionate DevOps developer and a Machine Learning Enthusiast from India.My focus lies in streamlining software delivery through continuous integration and deployment.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Sivagireeswaran&icon=6&color=9)](https://visitcount.itsvg.in)
 
